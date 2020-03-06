@@ -26,5 +26,7 @@
     %form.chat-main__form__new-message
       .chat-main__form__new-message__input-box
         %input.input-box__input-text{:placeholder => "type a message", :type => "text"}
-        %label.input-box__image
+        %label{class: "input-box__image"}
+          = icon('fa', 'image')
+          %input{class: "file-btn", type: "file"}
       %input.new-message__send-btn{:type => "submit", :name =>"commit" , :value=> "Send"}
