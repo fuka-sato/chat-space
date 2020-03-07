@@ -1,0 +1,32 @@
+.chat-main
+  .chat-main__header
+    .chat-main__header__left
+      %p.chat-main__header__left__group-name 1
+      %ul.chat-main__header__left__member 
+        %li.chat-main__header__left__member-list Member :
+        %li.chat-main__header__left__member-list-number 0
+
+    .chat-main__header__right
+      %p.chat-main__header__right__edit-btn
+        = link_to "#", class: "btn" do
+          Edit
+  .chat-main__messages
+    .chat-main__messages__message
+      .chat-main__messages__message__top
+        %p.message__top__user-name s
+        %p.message__top__date 2020/10/29
+      .chat-main__messages__message__text q
+
+      .chat-main__messages__message__top
+        %p.message__top__user-name u
+        %p.message__top__date 2020/10/29
+      .chat-main__messages__message__text a
+      
+  .chat-main__form
+    %form.chat-main__form__new-message
+      .chat-main__form__new-message__input-box
+        %input.input-box__input-text{placeholder: "type a message", type: "text"}
+        %label{class: "input-box__image"}
+          = icon('fa', 'image')
+          %input{class: "file-btn", type: "file"}
+      %input.new-message__send-btn{type: "submit", name: "commit" , value: "Send"}

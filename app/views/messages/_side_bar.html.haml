@@ -1,0 +1,18 @@
+.chat-side
+  .chat-side__header
+    .side__header__box
+      %p.side__header__box__user-name  sato
+      %ul.side__header__box__menu
+        %li.side__header__box__menu__new-group
+        = link_to do
+          = icon('fa','edit', class: 'icon')
+        %li.side__header__box__menu__edit
+        = link_to do
+          = icon('fa', 'cog', class: 'icon')
+
+  .chat-side__groups
+    %p.chat-side__groups__name p
+    %p.chat-side__groups__text まだメッセージがありません
+  
+    %p.chat-side__groups__name i
+    %p.chat-side__groups__text まだメッセージがありません

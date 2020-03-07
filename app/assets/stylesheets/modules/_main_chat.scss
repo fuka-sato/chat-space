@@ -1,0 +1,42 @@
+$color-btn: #38aef0;
+
+.chat-main {
+  background-color: #eeeeee;
+  width: calc(100vw - 300px);
+    &__header {
+      height: 100px;
+      background-color: #ffffff;
+      padding: 0 40px;
+      display: flex;
+      border-bottom: solid 1px #eee;
+      justify-content: space-between;
+      &__left {
+        padding-top: 35px;
+        &__group-name {
+          color: #333333;
+          font-size: 20px;
+        }
+        &__member {
+          display: flex;
+          margin-top: 15px;
+          color: #999999;
+          font-size: 12px;
+          &-list {
+          margin-right: 5px;
+          }
+        }
+      }
+      &__right__edit-btn {
+        margin-top: 30px;
+        height: 40px;
+        border: solid 1px $color-btn;
+        .btn {
+          text-decoration: none;
+          color: $color-btn;
+          font-size: 16px;
+          line-height: 40px;
+          padding: 0 20px;
+        }
+      }
+    }
+ }
