@@ -36,15 +36,19 @@ $back-color: #ffffff;
     background-color: #2f3e51;
     height: calc(100vh - 100px);
     padding: 20px 20px 0;
-      &__name {
-        font-size: 15px;
-        margin-bottom: 5px;
-        color: $back-color;
-      }
       &__text {
         font-size: 11px;
         color: $back-color;
         margin-bottom: 40px;
       }
+      .name {
+        text-decoration: none;
+        .group__name {
+          text-decoration: none;
+          color: $back-color;
+          font-size: 15px;
+          margin-bottom: 5px;
+      }
+    }
   }
 }
