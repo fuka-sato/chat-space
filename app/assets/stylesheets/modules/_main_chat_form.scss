@@ -2,15 +2,17 @@
   background-color: #d2d2d2;
   height: 90px;
   padding: 20px 40px;
-  &__new-message {
-    display: flex;
-    &__input-box {
+    &__new-message__input-box {
       width: 100%;
-      position: relative;
+      display: flex;
       .input-box__image {
-        position: absolute;
+        position: relative;
         line-height: 50px;
-        right: 10px;
+          .icon {
+            position: absolute;
+            right: 10px;
+            line-height: 50px;
+          }
           .file-btn {
             display: none;
           }
@@ -30,4 +32,3 @@
       color: #ffffff;
     }
   }
-}
