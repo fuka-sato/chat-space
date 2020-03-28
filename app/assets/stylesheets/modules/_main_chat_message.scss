@@ -1,6 +1,7 @@
 .chat-main__messages {
   height: calc(100vh - 100px - 90px);
   padding: 35px 40px;
+  overflow: scroll;
   &__message__top {
     display: flex;
     margin-bottom: 12px;
