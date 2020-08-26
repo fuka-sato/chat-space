@@ -48,10 +48,10 @@ http://18.180.169.249
 ## デモ
 ・ログイン画面<br>
 ![ログイン画面](https://github.com/fuka-sato/chat-space/blob/master/app/assets/images/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png)<br>
-
+<br>
 ・投稿画面<br>
 ![ログイン画面](https://github.com/fuka-sato/chat-space/blob/master/app/assets/images/%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2.png)<br>
-
+<br>
 ・グループ編集画面<br>
 ![ログイン画面](https://github.com/fuka-sato/chat-space/blob/master/app/assets/images/%E7%B7%A8%E9%9B%86%E7%94%BB%E9%9D%A2.png)<br>
 
