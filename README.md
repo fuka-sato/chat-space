@@ -46,6 +46,15 @@ http://18.180.169.249
 ・疑問に感じたことは、そのままにせず質問を行うようにしました<br>
 
 ## デモ
+・ログイン画面<br>
+![ログイン画面](https://github.com/fuka-sato/Study/blob/master/app/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-08-11%2021.02.32.png)<br>
+
+・投稿画面<br>
+![ログイン画面](https://github.com/fuka-sato/Study/blob/master/app/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-08-11%2021.02.32.png)<br>
+
+・グループ編集画面<br>
+![ログイン画面](https://github.com/fuka-sato/Study/blob/master/app/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-08-11%2021.02.32.png)<br>
+
 
 # DB設計
 ## usersテーブル
