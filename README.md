@@ -47,13 +47,13 @@ http://18.180.169.249
 
 ## デモ
 ・ログイン画面<br>
-![ログイン画面](https://github.com/fuka-sato/Study/blob/master/app/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-08-11%2021.02.32.png)<br>
+![ログイン画面](https://github.com/fuka-sato/chat-space/blob/master/app/assets/images/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png)<br>
 
 ・投稿画面<br>
-![ログイン画面](https://github.com/fuka-sato/Study/blob/master/app/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-08-11%2021.02.32.png)<br>
+![ログイン画面](https://github.com/fuka-sato/chat-space/blob/master/app/assets/images/%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2.png)<br>
 
 ・グループ編集画面<br>
-![ログイン画面](https://github.com/fuka-sato/Study/blob/master/app/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-08-11%2021.02.32.png)<br>
+![ログイン画面](https://github.com/fuka-sato/chat-space/blob/master/app/assets/images/%E7%B7%A8%E9%9B%86%E7%94%BB%E9%9D%A2.png)<br>
 
 
 # DB設計
